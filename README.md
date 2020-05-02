@@ -1,4 +1,4 @@
-# obsプラグイン：virtualCom（Mac用）
+# OBSプラグイン：virtualCom（Mac用）
 
 このガイドを使用すると、OVSにvirtualCom（仮想カメラ）を追加することができます。
 
