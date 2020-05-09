@@ -41,3 +41,7 @@ echo "STAP:OBS実行"
 # Run your build of OBS
 cd $OBS_DIR/build/rundir/RelWithDebInfo/bin
 ./obs
+
+
+echo"Zoom"
+sudo codesign --remove-signature /Applications/zoom.us.app/
