@@ -10,10 +10,3 @@ chmod +x ./obs-mac-virtualcam-install.sh
 sudo ./obs-mac-virtualcam-install.sh
 ```
 
-### Run
-
-```bash:Terminal Command
-cd /location/of/file
-chmod +x ./obs-mac-virtualcam-run.sh
-sudo ./obs-mac-virtualcam-run.sh
-```
