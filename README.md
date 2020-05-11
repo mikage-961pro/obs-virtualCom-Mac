@@ -15,3 +15,5 @@ sudo ./obs-mac-virtualcam-install.sh
 1. Open Application folder.
 2. Open /Applications/OBS.app/Contents/PlugIns
 3. Copy obs-mac-virtualcam.so
+4. Open /Library/CoreMediaIO/Plug-Ins/DAL/
+5. Copy obs-mac-virtualcam.plugin
