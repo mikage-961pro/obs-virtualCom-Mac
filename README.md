@@ -17,3 +17,10 @@ sudo ./obs-mac-virtualcam-install.sh
 3. Copy obs-mac-virtualcam.so
 4. Open /Library/CoreMediaIO/Plug-Ins/DAL/
 5. Copy obs-mac-virtualcam.plugin
+
+
+## Zoom 5.0 and Newer
+Terminal Command
+```
+sudo codesign --remove-signature /Applications/zoom.us.app/
+```
