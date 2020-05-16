@@ -3,6 +3,15 @@
 このガイドを使用すると、OVSにvirtualCom（仮想カメラ）を追加することができます。
 
 ## Use
+### Command Line Toolsをインストール
+アップル社のディベロッパーにアクセスします。
+
+https://developer.apple.com/downloads/index.action
+
+Apple IDとパスワードを入力します。
+検索窓に Command Line Tools を入力し、お使いのmacのバージョンに合わせて、インストールしてください。
+
+
 ### build
 ```bash:Terminal Command
 cd /location/of/file
